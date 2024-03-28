@@ -1,4 +1,4 @@
-**This project is created based on ECE 198 course Rubric.**
+**This project is created based on ECE 198 course rubric.**
 
 **Mission**
 
